@@ -2,8 +2,8 @@
 
 > Repositório central dos meus projetos acadêmicos e pessoais, com versionamento em Git e página publicada no GitHub Pages.
 
-🌐 **Site:** https://henriqueagusto.github.io/portfolio
-💼 **LinkedIn:** https://www.linkedin.com/in/SEU-PERFIL
+🌐 **Site:** https://henriqueagusto.github.io/portifolio
+💼 **LinkedIn:** https://www.linkedin.com/in/henrique-augusto-5298472a2
 🐙 **GitHub:** https://github.com/henriqueagusto
 
 ---
@@ -11,7 +11,7 @@
 ## 📁 Estrutura do repositório
 
 ```
-portfolio/
+portifolio/
 ├── index.html                       # Página do GitHub Pages
 ├── style.css                        # Estilos da página
 ├── assets/                          # Imagens e prints
@@ -31,7 +31,7 @@ portfolio/
 | Projeto | Tipo | Tecnologias | Links |
 |---|---|---|---|
 | [PATRI](projetos-pessoais/patri/) | Pessoal / uso real | React, TypeScript, Node.js, Express, Prisma, PostgreSQL, Docker | [código](https://github.com/henriqueagusto/patri-cautela) |
-| [Portfólio no GitHub Pages](projetos-academicos/portfolio-github-pages/) | Acadêmico | HTML, CSS, GitHub Pages | [site](https://henriqueagusto.github.io/portfolio) |
+| [Portfólio no GitHub Pages](projetos-academicos/portfolio-github-pages/) | Acadêmico | HTML, CSS, GitHub Pages | [site](https://henriqueagusto.github.io/portifolio) |
 
 ## 🔀 Versionamento
 

@@ -3,7 +3,7 @@
 > Página web estática que apresenta meus projetos, publicada direto deste repositório com o GitHub Pages.
 
 **Tipo:** Acadêmico · **Atividade:** Desafio — Criação de Repositório com Versionamento · **Período:** 2026/2
-🔗 **Site:** https://henriqueagusto.github.io/portfolio
+🔗 **Site:** https://henriqueagusto.github.io/portifolio
 
 ---
 
@@ -35,8 +35,8 @@ Detalhes no [CHANGELOG](../../CHANGELOG.md).
 ## ▶️ Como executar localmente
 
 ```bash
-git clone https://github.com/henriqueagusto/portfolio.git
-cd portfolio
+git clone https://github.com/henriqueagusto/portifolio.git
+cd portifolio
 # abra o index.html no navegador
 ```
 
@@ -45,7 +45,7 @@ cd portfolio
 1. No repositório, abra **Settings → Pages**.
 2. Em **Source**, escolha **Deploy from a branch**.
 3. Selecione a branch **main** e a pasta **/(root)** e clique em **Save**.
-4. Em alguns minutos o site fica disponível em `https://henriqueagusto.github.io/portfolio`.
+4. Em alguns minutos o site fica disponível em `https://henriqueagusto.github.io/portifolio`.
 
 ## 👤 Autor
 

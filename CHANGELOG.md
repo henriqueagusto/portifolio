@@ -5,7 +5,10 @@ Todas as mudanças relevantes deste repositório. Formato baseado em [Keep a Cha
 ## [1.1.0] — 2026-10-17
 ### Adicionado
 - READMEs completos de cada projeto.
-- Links para o LinkedIn e para os repositórios.
+- Link do perfil no LinkedIn no site e no README.
+
+### Corrigido
+- Links apontando para o repositório `portifolio`.
 
 ## [1.0.0] — 2026-10-17
 ### Adicionado
